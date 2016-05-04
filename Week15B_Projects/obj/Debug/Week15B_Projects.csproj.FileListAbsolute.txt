@@ -1,0 +1,6 @@
+c:\users\viczmandni\documents\visual studio 2015\Projects\Week15B_Projects\Week15B_Projects\bin\Debug\Week15B_Projects.exe.config
+c:\users\viczmandni\documents\visual studio 2015\Projects\Week15B_Projects\Week15B_Projects\bin\Debug\Week15B_Projects.exe
+c:\users\viczmandni\documents\visual studio 2015\Projects\Week15B_Projects\Week15B_Projects\bin\Debug\Week15B_Projects.pdb
+c:\users\viczmandni\documents\visual studio 2015\Projects\Week15B_Projects\Week15B_Projects\obj\Debug\Week15B_Projects.csprojResolveAssemblyReference.cache
+c:\users\viczmandni\documents\visual studio 2015\Projects\Week15B_Projects\Week15B_Projects\obj\Debug\Week15B_Projects.exe
+c:\users\viczmandni\documents\visual studio 2015\Projects\Week15B_Projects\Week15B_Projects\obj\Debug\Week15B_Projects.pdb

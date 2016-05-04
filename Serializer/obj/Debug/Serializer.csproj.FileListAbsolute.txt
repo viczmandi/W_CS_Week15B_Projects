@@ -1,0 +1,9 @@
+c:\users\viczmandni\documents\visual studio 2015\Projects\Week15B_Projects\Serializer\bin\Debug\Serializer.exe.config
+C:\Users\viczmandni\Documents\Visual Studio 2015\Projects\Week15B_Projects\Serializer\bin\Debug\Serializer.exe
+C:\Users\viczmandni\Documents\Visual Studio 2015\Projects\Week15B_Projects\Serializer\bin\Debug\Serializer.pdb
+C:\Users\viczmandni\Documents\Visual Studio 2015\Projects\Week15B_Projects\Serializer\obj\Debug\Serializer.csprojResolveAssemblyReference.cache
+C:\Users\viczmandni\Documents\Visual Studio 2015\Projects\Week15B_Projects\Serializer\obj\Debug\Serializer.Properties.Resources.resources
+C:\Users\viczmandni\Documents\Visual Studio 2015\Projects\Week15B_Projects\Serializer\obj\Debug\Serializer.Serializer.resources
+C:\Users\viczmandni\Documents\Visual Studio 2015\Projects\Week15B_Projects\Serializer\obj\Debug\Serializer.csproj.GenerateResource.Cache
+C:\Users\viczmandni\Documents\Visual Studio 2015\Projects\Week15B_Projects\Serializer\obj\Debug\Serializer.exe
+C:\Users\viczmandni\Documents\Visual Studio 2015\Projects\Week15B_Projects\Serializer\obj\Debug\Serializer.pdb
