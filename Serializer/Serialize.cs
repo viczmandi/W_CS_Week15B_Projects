@@ -19,12 +19,13 @@ namespace Serializer
             fs.Close();
         }
 
-        public static void Deserializing(string fileName)
+        public static Person Deserializing(string fileName)
         {
             FileStream fs = new FileStream(fileName, FileMode.Open);
             IFormatter formatter = new BinaryFormatter();
-            formatter.Deserialize(fs);
+            Person p = (Person)formatter.Deserialize(fs);
             fs.Close();
+            return p;
         }
     }
 }
